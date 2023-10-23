@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header {
+    box-sizing:border-box;
+    width: 100%;
+    height: 400px;
+    
+
+}
+
+
+.head {
+    background-color: black;
+    height: 80px;
+    
+}
+
+h2 {
+    color: white;
+}
+
+.tittle {
+    color: black;
+}
+
+.fondo {
+    background-image: url(imagenes/fondoinicio.avif);
+    background-repeat: no-repeat;
+    height: 320px;
+    background-size: 100% 100%;
+    
+}
+
+
+#box-container {
+    width: 100%;
+    height: 800px;
+    background-color: grey;
+    
+}
+
+.sobremi {
+    display: flex;
+    flex-wrap: nowrap;
+    
+}
+
+.caja-sobremi {
+    width: 50%;
+}
+
+.servicios {
+    height: 100px;
+    
+    text-align: center;
+}
+.caja-delitos {
+    height: 600px;
+    width: 100%;
+
+    display:grid;
+    grid-template-columns: auto auto auto;  
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.fondo1 { 
+    background-image: url(imagenes/delito1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+}
+
+.fondo2 {
+    background-image: url(imagenes/delito2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+}
+
+.fondo3 {
+    background-image: url(imagenes/delito3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+
+}
+
+.fondo4 {
+    background-image: url(imagenes/delito4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+
+}
+
+.fondo5 {
+    background-image: url(imagenes/delito5.jpg);
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+
+}
+
+.fondo6 {
+    background-image: url(imagenes/delito6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+
+
+}
+
+.fondo7 {
+    background-image: url(imagenes/delito7.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+
+}
+
+.fondo8 {
+    background-image: url(imagenes/delito8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+
+}
+
+.fondo9 {
+    background-image: url(imagenes/delito9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 200px;
+
+}

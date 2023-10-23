@@ -1,0 +1,48 @@
+
+body {background-color:fuchsia ;}
+.caja1 {
+    background-color: rgb(108, 218, 222);
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 15px solid rgb(25, 32, 122);
+    border-radius: 15px;
+
+}
+.caja2 {
+    background-color: rgb(198, 157, 186);
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 15px solid rgb(75, 12, 75);
+    border-radius: 15px;
+    
+   
+
+}
+.caja3 {
+    background-color: rgb(133, 223, 192);
+    width: 300px;
+    height: 300px;
+   float: left;
+   border: 15px solid rgb(17, 88, 46);
+   border-radius: 15px;
+}
+.caja4 {
+    background-color: rgb(214, 222, 108);
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 15px solid rgb(176, 111, 15);
+    border-radius: 15px;
+
+}
+.caja5 {
+    background-color: rgb(142, 58, 58);
+    width: 300px;
+    height: 300px;
+    float: left;
+    border: 15px solid rgb(31, 4, 4);
+    border-radius: 15px;
+
+}
